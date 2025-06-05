@@ -65,7 +65,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 6.  ✅ Namespaces
 7.  ✅ typedef & using
 8.  ✅ Arithmetic operators + Augmented assignment
-9.  ❌ Type conversion
+9.  ✅ Type conversion
 10. ✅ User input
 
 ### Library Functions
