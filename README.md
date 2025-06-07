@@ -69,7 +69,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 10. ✅ User input
 
 ### Library Functions
-1. ❌ Math functions
+1. ✅ Math functions
 2. ❌ String functions
 3. ❌ Random numbers
 4. ✅ Beep
