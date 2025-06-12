@@ -11,11 +11,13 @@ int main(){
   float pi = 3.141592;           // decimal numbers
   char grade = 'C';              // character
   std::string name = "slyzOwO";  // string is a list of characters
+  bool student =  true;
 
-  std::cout << "you are " << age << " years old" << '\n';    // d = digit
-  std::cout << "pi is " << pi << '\n';                       // s = string
-  std::cout << "my grade is " << grade << '\n';             // c = character
-  std::cout << "you\'re name is " << name << '\n';           // s = string
+  std::cout << "you are " << age << " years old" << '\n';
+  std::cout << "pi is " << pi << '\n';
+  std::cout << "my grade is " << grade << '\n';
+  std::cout << "you\'re name is " << name << '\n';
+  std::cout << "you\'re a student : " << student << '\n';
 
 return 0;
 }

@@ -81,10 +81,8 @@ press the triangle in the corner of your screen, and it compiles and runs.
 3. ✅ Switch statements
 
 ### Gates
-1. ❌ And logical operator
-2. ❌ Or logical operator
-3. ❌ Not logical operator
-4. ❌ Bitwise operators
+1. ✅ logical operators
+2. ❌ Bitwise operators
 
 ### Functions
 1. ❌ Functions
