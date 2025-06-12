@@ -77,7 +77,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 
 ### Statements
 1. ✅ If statements
-2. ❌ Ternary operator
+2. ✅ Ternary operator
 3. ❌ Switch statements
 
 ### Gates
