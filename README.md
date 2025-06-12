@@ -76,7 +76,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 5. ❌ Swap 2 variables
 
 ### Statements
-1. ❌ If statements
+1. ✅ If statements
 2. ❌ Ternary operator
 3. ❌ Switch statements
 
