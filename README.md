@@ -85,13 +85,12 @@ press the triangle in the corner of your screen, and it compiles and runs.
 2. ❌ Bitwise operators
 
 ### Functions
-1. ❌ Functions
-2. ❌ Function prototypes
+1. ✅ Functions
+2. ✅ Function prototypes
 3. ❌ Return statement
 4. ❌ Arguments
 5. ❌ Structs
-6. ❌ Typedef
-7. ❌ Enums
+6. ❌ Enums
 
 ### Loops
 1. ✅ For loops
