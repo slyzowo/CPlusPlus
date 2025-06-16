@@ -9,7 +9,7 @@ int main(){
   do{
     cout << "Enter a positive number :" << '\n';
     cin >> number;
-  } while (number < 0);
+  } while(number < 0);
 
 return 0;
 }

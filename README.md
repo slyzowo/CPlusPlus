@@ -94,7 +94,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 7. ❌ Enums
 
 ### Loops
-1. ❌ For loops
+1. ✅ For loops
 2. ❌ Break vs continue
 3. ✅ While loops
 4. ✅ Do while loop
