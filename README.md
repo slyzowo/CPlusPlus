@@ -71,7 +71,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 ### Library Functions
 1. ✅ Math functions
 2. ✅ String functions
-3. ❌ Random numbers
+3. ✅ Random numbers
 4. ✅ Beep
 5. ❌ Swap 2 variables
 
