@@ -87,8 +87,8 @@ press the triangle in the corner of your screen, and it compiles and runs.
 ### Functions
 1. ✅ Functions
 2. ✅ Function prototypes
-3. ❌ Return statement
-4. ❌ Arguments
+3. ✅ Return statement
+4. ✅ Overloaded Functions
 5. ❌ Structs
 6. ❌ Enums
 
