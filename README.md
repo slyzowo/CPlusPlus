@@ -73,7 +73,6 @@ press the triangle in the corner of your screen, and it compiles and runs.
 2. ✅ String functions
 3. ✅ Random numbers
 4. ✅ Beep
-5. ❌ Swap 2 variables
 
 ### Statements
 1. ✅ If statements
@@ -91,6 +90,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 4. ✅ Overloaded Functions
 5. ❌ Structs
 6. ❌ Enums
+7. ✅ Function Templates
 
 ### Loops
 1. ✅ For loops
