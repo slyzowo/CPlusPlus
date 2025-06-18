@@ -55,32 +55,32 @@ press the triangle in the corner of your screen, and it compiles and runs.
 > This tutorial does NOT cover algorithms or how to write clean code.
 
 ### Basic
-0.  ✅ Compile and run a C program with commmand line
-1.  ✅ Hello World
-2.  ✅ Comments
-3.  ✅ Escape sequences
-4.  ✅ Variables
-5.  ✅ Constants
-6.  ✅ Namespaces
-7.  ✅ typedef & using
-8.  ✅ Arithmetic operators + Augmented assignment
-9.  ✅ Type conversion
-10. ✅ User input
+0. Compile and run a C program with commmand line
+1. Hello World
+2. Comments
+3. Escape sequences
+4. Variables
+5. Constants
+6. Namespaces
+7. typedef & using
+8. Arithmetic operators + Augmented assignment
+9. Type conversion
+10. User input
 
 ### Library Functions
-1. ✅ Math functions
-2. ✅ String functions
-3. ✅ Random numbers
-4. ✅ Beep
+1. Math functions
+2. String functions
+3. Random numbers
+4. Beep
 
 ### Statements
-1. ✅ If statements
-2. ✅ Ternary operator
-3. ✅ Switch statements
+1. If statements
+2. Ternary operator
+3. Switch statements
 
 ### Gates
-1. ✅ logical operators
-2. ❌ Bitwise operators
+1. logical operators
+2. Bitwise operators
 
 ### Functions
 1. ✅ Functions
