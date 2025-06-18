@@ -51,7 +51,6 @@ press the triangle in the corner of your screen, and it compiles and runs.
 
 # Tutorial Topics
 
-
 > [!WARNING]
 > This tutorial does NOT cover algorithms or how to write clean code.
 
@@ -118,6 +117,12 @@ press the triangle in the corner of your screen, and it compiles and runs.
 1. ❌ Writing file
 2. ❌ Reading files
 3. ❌ Deleting files
+
+### Oject Oriented Programming
+1. ❌ Classes
+2. ❌ Constructors
+3. ❌ Destructors
+4. ❌ Inheritance
 
 ### compiling from command line
 To Test to see if you have the compiler, type in this command
