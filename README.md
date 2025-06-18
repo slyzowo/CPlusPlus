@@ -116,6 +116,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 3. ❌ Malloc
 4. ❌ Calloc
 5. ❌ Realloc
+5. ❌ Smart Pointers
 
 ### Input Output
 1. ❌ Writing file
