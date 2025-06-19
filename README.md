@@ -92,17 +92,17 @@ press the triangle in the corner of your screen, and it compiles and runs.
 7. Function Templates
 
 ### Loops
-1. ✅ For loops
-2. ✅ Break vs continue
-3. ✅ While loops
-4. ✅ Do while loop
-5. ✅ Nested loops
-6. ❌ For each loops
+1. For loops
+2. Break vs continue
+3. While loops
+4. Do while loop
+5. Nested loops
+6. For each loops
 
 ### Arrays
-1. ❌ Arrays
-2. ❌ Size Of
-3. ❌ Iterate over an array
+1. ✅ Arrays
+2. ✅ Size Of
+3. ✅ Iterate over an array
 4. ❌ Pass array to function
 5. ❌ Search array for element
 6. ❌ Search an array
