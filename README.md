@@ -124,8 +124,8 @@ press the triangle in the corner of your screen, and it compiles and runs.
 3. ❌ Deleting files
 
 ### Oject Oriented Programming
-1. ❌ Classes
-2. ❌ Constructors
+1. ✅ Classes
+2. ✅ Constructors
 3. ❌ Destructors
 4. ❌ Inheritance
 
