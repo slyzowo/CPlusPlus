@@ -63,7 +63,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 5. Constants
 6. Namespaces
 7. typedef & using
-8. Arithmetic operators + Augmented assignment
+8. Arithmetic operators & Augmented assignment
 9. Type conversion
 10. User input
 
@@ -126,7 +126,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 ### Oject Oriented Programming
 1. ✅ Classes
 2. ✅ Constructors
-3. ❌ Destructors
+3. ✅ Getters & Setters
 4. ❌ Inheritance
 
 ### compiling from command line
