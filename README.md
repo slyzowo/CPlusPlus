@@ -124,10 +124,10 @@ press the triangle in the corner of your screen, and it compiles and runs.
 3. ❌ Deleting files
 
 ### Oject Oriented Programming
-1. ✅ Classes
-2. ✅ Constructors
-3. ✅ Getters & Setters
-4. ❌ Inheritance
+1. Classes
+2. Constructors
+3. Getters & Setters
+4. Inheritance
 
 ### compiling from command line
 To Test to see if you have the compiler, type in this command
