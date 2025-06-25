@@ -117,11 +117,6 @@ press the triangle in the corner of your screen, and it compiles and runs.
 4. ❌ Calloc
 5. ❌ Realloc
 
-### Input Output
-1. ❌ Writing file
-2. ❌ Reading files
-3. ❌ Deleting files
-
 ### Oject Oriented Programming
 1. Classes
 2. Constructors
