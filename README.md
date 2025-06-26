@@ -103,7 +103,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 1. ✅ Arrays
 2. ✅ Size Of
 3. ✅ Iterate over an array
-4. ❌ Pass array to function
+4. ✅ Pass array to function
 5. ❌ Search array for element
 6. ❌ Search an array
 7. ❌ Fill
