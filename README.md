@@ -10,11 +10,11 @@ Download the [C/C++ compiler](https://www.msys2.org/) and [Visual Studio Code](h
 ## Installing Msys2
 Run the program follow the wizard to install it. After that copy and paste this command into the terminal.
 ```
-pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman .S mingw.w64.ucrt.x86_64.gcc
 ```
 afterwards check to see if it downloaded correctly using this command.
 ```
-gcc --version
+gcc ..version
 ```
 If it works you'll see `gcc.exe (Rev2, Built by MSYS2 project) 13.2.0`
 
@@ -25,26 +25,26 @@ If it works you'll see `gcc.exe (Rev2, Built by MSYS2 project) 13.2.0`
 Run the Visual Studio Code.exe.\
 when it asks for `select additional tasks` check all the boxes.
 
-- [x] Create a desktop icon
-- [x] Add "Open with Code action to Windows Explorer file context menu
-- [x] Add "Open with Code action to Windows Explorer directory context menu
-- [x] Register Code as an editor for supported file types
-- [x] Add to PATH
+. [x] Create a desktop icon
+. [x] Add "Open with Code action to Windows Explorer file context menu
+. [x] Add "Open with Code action to Windows Explorer directory context menu
+. [x] Register Code as an editor for supported file types
+. [x] Add to PATH
 
 Finish the installation.
 
 ### Addons
-Download the Visual Studio Code addons [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack).
+Download the Visual Studio Code addons [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms.vscode.cpptools.extension.pack).
 It comes with 
-- Debugger
-- Intellisense
-- Cmake
-- Themes
+. Debugger
+. Intellisense
+. Cmake
+. Themes
 
 > [!NOTE]
 > This next part is optional, but is recommended to new users.
 
-Download [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) to run your code faster and easier
+Download [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code.runner) to run your code faster and easier
 
 ### compiling from Code Runner
 press the triangle in the corner of your screen, and it compiles and runs.
@@ -55,78 +55,106 @@ press the triangle in the corner of your screen, and it compiles and runs.
 > This tutorial does NOT cover algorithms or how to write clean code.
 
 ### Basic
-0. Compile and run a C program with commmand line
-1. Hello World
+1. Print
 2. Comments
-3. Escape sequences
+3. Escape Sequences
 4. Variables
-5. Constants
-6. Namespaces
-7. typedef & using
-8. Arithmetic operators & Augmented assignment
-9. Type conversion
-10. User input
+5. Namespaces
+6. Constants
+7. Typedef & Using
+8. Arithmetic
+9. Type Conversion
+10. User Input
 
 ### Library Functions
-1. Math functions
-2. String functions
-3. Random numbers
+1. Math Functions
+2. String Functions
+3. Random Numbers
 4. Beep
+5. Lambda Functions
 
 ### Statements
-1. If statements
-2. Ternary operator
-3. Switch statements
+1. If Statements
+2. Ternary Statement
+3. Switch Statement
 
-### Gates
-1. logical operators
-2. Bitwise operators
+### More Operators
+1. Logical Operators
+2. Bitwise Operators
 
 ### Functions
 1. Functions
-2. Function prototypes
-3. Return statement
-4. Overloaded Functions
-5. Structs
-6. Enums
-7. Function Templates
+2. Function Prototypes
+3. Return Statement
+4. Function Templates
+5. ∞ Variables in a Function
+
+### Data Structures
+1. Enums
+2. Structs
+3. Unions
 
 ### Loops
-1. For loops
-2. Break vs continue
-3. While loops
-4. Do while loop
-5. Nested loops
-6. For each loops
+1. For Loops
+2. Break vs Continue
+3. While Loops
+4. Nested Loops
+5. For Each loop
 
 ### Arrays
-1. ✅ Arrays
-2. ✅ Size Of
-3. ✅ Iterate over an array
-4. ✅ Pass array to function
-5. ✅ Search array for element
-6. ✅ Sort an array
-7. ✅ Fill
-8. ❌ Fill Array with user input
-9. ❌ Multidimensional arrays
+1. Array
+2. Size of 
+3. Iterate over an Array
+4. Pass Array to Function
+5. Search Array for Element
+6. Sort an Array
+7. Fill
+8. Fill Array with User Input
+9. Multidimensional Arrays
+10. Vectors
+
+### Object Oriented Programming (OOP)
+1. Classes
+2. Public, Private, Protected
+3. Constructors
+4. Getters & Setters
+5. Inheritance
+6. Multiple Inheritance
 
 ### Memory
-1. ❌ Memory addresses
-2. ❌ Pointers
-3. ❌ Malloc
-4. ❌ Calloc
-5. ❌ Realloc
+1. Memory Addresses
+2. Pointers
+3. Malloc
+4. Calloc
+5. Realloc
+6. Smart Pointers
+7. Auto
 
-### Oject Oriented Programming
-1. Classes
-2. Constructors
-3. Getters & Setters
-4. Inheritance
+### Error Handling
+1. Try
+2. Catch
+3. Throw
+4. No Except
+
+### Threads
+1. Create & Removing Threads
+2. Coroutines
+
+### Files
+1. Read
+2. Write
+3. Append
+4. Delete
+5. Get a random line from a file
+
+### Libraries
+1. Header Files
+2. Dynamic Link Libraries (DLL) Files
 
 ### compiling from command line
 To Test to see if you have the compiler, type in this command
 ```
-gcc --version
+gcc ..version
 ```
 
 Copy and paste this command to compile
