@@ -59,10 +59,10 @@ press the triangle in the corner of your screen, and it compiles and runs.
 2. Comments
 3. Escape Sequences
 4. Variables
-5. Namespaces
-6. Constants
-7. Typedef & Using
-8. Arithmetic
+5. Constants
+6. Namespaces
+7. Arithmetic
+8. Typedef & Using
 9. Type Conversion
 10. User Input
 
