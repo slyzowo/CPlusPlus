@@ -86,8 +86,9 @@ press the triangle in the corner of your screen, and it compiles and runs.
 1. Functions
 2. Function Prototypes
 3. Return Statement
-4. Function Templates
-5. ∞ Variables in a Function
+4. Overloaded Functions
+5. Function Templates
+6. ∞ Variables in a Function
 
 ### Data Structures
 1. Enums
@@ -98,8 +99,9 @@ press the triangle in the corner of your screen, and it compiles and runs.
 1. For Loops
 2. Break vs Continue
 3. While Loops
-4. Nested Loops
-5. For Each loop
+4. Do While Loops
+5. Nested Loops
+6. For Each loop
 
 ### Arrays
 1. Array
