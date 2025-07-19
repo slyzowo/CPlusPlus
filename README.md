@@ -25,21 +25,21 @@ If it works you'll see `gcc.exe (Rev2, Built by MSYS2 project) 13.2.0`
 Run the Visual Studio Code.exe.\
 when it asks for `select additional tasks` check all the boxes.
 
-. [x] Create a desktop icon
-. [x] Add "Open with Code action to Windows Explorer file context menu
-. [x] Add "Open with Code action to Windows Explorer directory context menu
-. [x] Register Code as an editor for supported file types
-. [x] Add to PATH
+- [x] Create a desktop icon
+- [x] Add "Open with Code action to Windows Explorer file context menu
+- [x] Add "Open with Code action to Windows Explorer directory context menu
+- [x] Register Code as an editor for supported file types
+- [x] Add to PATH
 
 Finish the installation.
 
 ### Addons
 Download the Visual Studio Code addons [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms.vscode.cpptools.extension.pack).
 It comes with 
-. Debugger
-. Intellisense
-. Cmake
-. Themes
+- Debugger
+- Intellisense
+- Cmake
+- Themes
 
 > [!NOTE]
 > This next part is optional, but is recommended to new users.
