@@ -71,7 +71,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 2. ✅ String Functions
 3. ✅ Random Numbers
 4. ✅ Beep
-5. Lambda Functions
+5. ✅ Lambda Functions
 
 ### Statements
 1. ✅ If Statements
@@ -101,7 +101,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 3. ✅ While Loops
 4. ✅ Do While Loops
 5. ✅ Nested Loops
-6. For Each loop
+6. ✅ For Each loop
 
 ### Arrays
 1. ✅ Array
