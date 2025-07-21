@@ -142,11 +142,10 @@ press the triangle in the corner of your screen, and it compiles and runs.
 2. Coroutines
 
 ### Files
-1. Read
-2. Write
+1. ✅ Write
+2. ✅ Read
 3. Append
 4. Delete
-5. Get a random line from a file
 
 ### Libraries
 1. Header Files
