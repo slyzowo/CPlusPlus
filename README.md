@@ -93,7 +93,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 ### Data Structures
 1. ✅ Enums
 2. ✅ Structs
-3. Unions
+3. ✅ Unions
 
 ### Loops
 1. ✅ For Loops
