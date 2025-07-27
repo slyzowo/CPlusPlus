@@ -93,6 +93,11 @@ press the triangle in the corner of your screen, and it compiles and runs.
 1. Enums
 2. Structs
 3. Unions
+4. Vectors
+5. Queue
+6. Deque
+7. List
+8. Map
 
 ### Loops
 1. For Loops
