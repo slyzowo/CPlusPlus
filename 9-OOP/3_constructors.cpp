@@ -10,9 +10,9 @@ class Student{
   double gpa;
 
   Student(std::string name, int age, double gpa){
-    this->name = name;
-    this->age = age;
-    this->gpa = gpa;
+    this -> name = name;
+    this -> age = age;
+    this -> gpa = gpa;
   }
 
 };
