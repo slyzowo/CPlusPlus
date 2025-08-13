@@ -55,57 +55,57 @@ press the triangle in the corner of your screen, and it compiles and runs.
 > This tutorial does NOT cover algorithms or how to write clean code.
 
 ### Basic
-1. Print
-2. Comments
-3. Escape Sequences
-4. Variables
-5. Constants
-6. Namespaces
-7. Arithmetic
-8. Typedef & Using
-9. Type Conversion
-10. User Input
+1. ✅ Print
+2. ✅ Comments
+3. ✅ Escape Sequences
+4. ✅ Variables
+5. ✅ Constants
+6. ✅ Namespaces
+7. ✅ Arithmetic
+8. ✅ Typedef & Using
+9. ✅ Type Conversion
+10. ✅ User Input
 
 ### Library Functions
-1. Math Functions
-2. String Functions
-3. Random Numbers
-4. Beep
-5. Lambda Functions
+1. ✅ Math Functions
+2. ✅ String Functions
+3. ✅ Random Numbers
+4. ✅ Beep
+5. ✅ Lambda Functions
 
 ### Statements
-1. If Statements
-2. Ternary Statement
-3. Switch Statement
+1. ✅ If Statements
+2. ✅ Ternary Statement
+3. ✅ Switch Statement
 
 ### More Operators
-1. Logical Operators
-2. Bitwise Operators
+1. ✅ Logical Operators
+2. ✅ Bitwise Operators
 
 ### Functions
-1. Functions
-2. Function Prototypes
-3. Return Statement
-4. Overloaded Functions
-5. Function Templates
+1. ✅ Functions
+2. ✅ Function Prototypes
+3. ✅ Return Statement
+4. ✅ Overloaded Functions
+5. ✅ Function Templates
 
 ### Data Structures
-1. Enums
-2. Structs
-3. Unions
-4. Vectors
+1. ✅ Enums
+2. ✅ Structs
+3. ✅ Unions
+4. ✅ Vectors
 5. Queue
 6. Deque
 7. List
 8. Map
 
 ### Loops
-1. For Loops
-2. Break vs Continue
-3. While Loops
-4. Do While Loops
-5. Nested Loops
-6. For Each loop
+1. ✅ For Loops
+2. ✅ Break vs Continue
+3. ✅ While Loops
+4. ✅ Do While Loops
+5. ✅ Nested Loops
+6. ✅ For Each loop
 
 ### Arrays
 1. ✅ Array
