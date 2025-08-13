@@ -94,10 +94,10 @@ press the triangle in the corner of your screen, and it compiles and runs.
 2. ✅ Structs
 3. ✅ Unions
 4. ✅ Vectors
-5. Queue
-6. Deque
-7. List
-8. Map
+5. ❌ Queue
+6. ❌ Deque
+7. ❌ List
+8. ❌ Map
 
 ### Loops
 1. ✅ For Loops
@@ -117,44 +117,43 @@ press the triangle in the corner of your screen, and it compiles and runs.
 7. ✅ Fill
 8. Fill Array with User Input
 9. Multidimensional Arrays
-10. Vectors
 
 ### Object Oriented Programming (OOP)
 1. ✅ Classes
-2. Public, Private, Protected
+2. ❌ Public, Private, Protected
 3. ✅ Constructors
 4. ✅ Getters & Setters
 5. ✅ Inheritance
 6. Multiple Inheritance
 
 ### Memory
-1. Memory Addresses
-2. Pointers
-3. Malloc
-4. Calloc
-5. Realloc
-6. Smart Pointers
-7. Auto
+1. ❌ Memory Addresses
+2. ❌ Pointers
+3. ❌ Malloc
+4. ❌ Calloc
+5. ❌ Realloc
+6. ❌ Smart Pointers
+7. ❌ Auto
 
 ### Error Handling
-1. Try
-2. Catch
-3. Throw
-4. No Except
+1. ❌ Try
+2. ❌ Catch
+3. ❌ Throw
+4. ❌ No Except
 
 ### Threads
-1. Create & Removing Threads
-2. Coroutines
+1. ❌ Create & Removing Threads
+2. ❌ Coroutines
 
 ### Files
 1. ✅ Write
 2. ✅ Read
-3. Append
-4. Delete
+3. ❌ Append
+4. ❌ Delete
 
 ### Libraries
-1. Header Files
-2. Dynamic Link Libraries (DLL) Files
+1. ❌ Header Files
+2. ❌ Dynamic Link Libraries (DLL) Files
 
 ### compiling from command line
 To Test to see if you have the compiler, type in this command
