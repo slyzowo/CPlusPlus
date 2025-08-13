@@ -115,8 +115,8 @@ press the triangle in the corner of your screen, and it compiles and runs.
 5. ✅ Search Array for Element
 6. ✅ Sort an Array
 7. ✅ Fill
-8. Fill Array with User Input
-9. Multidimensional Arrays
+8. ❌ Fill Array with User Input
+9. ❌ Multidimensional Arrays
 
 ### Object Oriented Programming (OOP)
 1. ✅ Classes
