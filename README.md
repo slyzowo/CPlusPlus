@@ -97,7 +97,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 5. ❌ Queue
 6. ❌ Deque
 7. ✅ List
-8. ❌ Map
+8. ✅ Map
 
 ### Loops
 1. ✅ For Loops
