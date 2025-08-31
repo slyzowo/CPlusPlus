@@ -55,15 +55,15 @@ press the triangle in the corner of your screen, and it compiles and runs.
 > This tutorial does NOT cover algorithms or how to write clean code.
 
 ### Basic
-1. ✅ Print
-2. ✅ Comments
-3. ✅ Escape Sequences
-4. ✅ Variables
-5. ✅ Constants
-6. ✅ Namespaces
-7. ✅ Arithmetic
-8. ✅ Typedef & Using
-9. ✅ Type Conversion
+1.  ✅ Print
+2.  ✅ Comments
+3.  ✅ Escape Sequences
+4.  ✅ Variables
+5.  ✅ Constants
+6.  ✅ Namespaces
+7.  ✅ Arithmetic
+8.  ✅ Typedef & Using
+9.  ✅ Type Conversion
 10. ✅ User Input
 
 ### Library Functions
