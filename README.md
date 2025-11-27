@@ -3,12 +3,6 @@
 > [!WARNING]
 > I will redo this tutorial at some point, mostly to add more and to refactor some. I *may* make a youtube series on this. :3
 
-> [!CAUTION]
-> Test
-
-> [!IMPORTANT]
-> Test
-
 # installation
 ## Downloads
 Download the [C/C++ compiler](https://www.msys2.org/) and [Visual Studio Code](https://code.visualstudio.com/download)
